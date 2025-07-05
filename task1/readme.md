@@ -21,3 +21,8 @@ Python 3.x
 Tkinter – GUI framework
 
 pickle – for saving and loading tasks
+
+how to use:
+
+clone the repo
+and run front.py
