@@ -49,6 +49,12 @@ Score tracking system
 
 Difficulty levels (AI that learns)
 
+#How to run
+
+clone the github repo 
+
+run the main_gui.py in your editor
+
 👨‍💻 Author
 
 Ojas Onkar Joshi
