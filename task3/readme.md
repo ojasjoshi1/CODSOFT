@@ -1,41 +1,34 @@
-✊✋✌️ Rock Paper Scissors – Python Game
+🔐 Password Generator (Python)
 
-A fun and interactive Rock-Paper-Scissors game built using Python. Play against the computer with a simple interface, and test your luck and strategy in this timeless game.
+A secure and customizable Password Generator built using Python. Easily create strong, random passwords with options for length, special characters, numbers, and more.
 
-🎮 Game Features
+🚀 Features
 
-🤖 Play against a computer opponent
+🔁 Generate random and secure passwords
 
-🔁 Loop to keep playing until the user quits
+🔡 Customizable length
 
-🧠 Computer randomly selects between rock, paper, and scissors
+🔢 Includes letters, numbers, symbols
 
-📊 Instant feedback on who won each round
+🖥️ Console-based version for CLI users
 
-🏆 Score tracking (if implemented)
-
-🛠️ Built With
+🛠 Tech Stack
 
 Python 3.x
 
-Tkinter for GUI 
+random and string modules
 
-🧾 How to Play
+🧠 Possible Enhancements
 
-Rules:
+Create a GUI
 
-Rock beats Scissors
+Save generated passwords to a file
 
-Scissors beats Paper
+Add dark/light mode in GUI
 
-Paper beats Rock
+Add password strength meter
 
-How it works:
+Auto-copy to clipboard
 
-User chooses rock, paper, or scissors
+Integrate with password manager APIs
 
-Computer randomly makes a choice
-
-The winner is displayed
-
-Game repeats until you choose to exit
